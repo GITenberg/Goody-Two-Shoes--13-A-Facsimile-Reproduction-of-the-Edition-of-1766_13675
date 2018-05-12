@@ -1,0 +1,38 @@
+_repo: Goody-Two-Shoes--13-A-Facsimile-Reproduction-of-the-Edition-of-1766_13675
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Welsh, Charles
+    aliases:
+    - Gael, Shane Na
+    - McIvor, Ivor Ben
+    birthdate: 1850
+    deathdate: 1914
+    gutenberg_agent_id: '7222'
+    url: http://www.gutenberg.org/2009/agents/7222
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2004-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcc 'PZ'
+title: "Goody Two-Shoes\r\nA Facsimile Reproduction of the Edition of 1766"
+url: http://www.gutenberg.org/ebooks/13675
