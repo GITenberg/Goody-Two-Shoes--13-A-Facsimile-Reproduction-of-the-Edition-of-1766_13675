@@ -23,6 +23,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13675#Goody-Two-Shoes--13-A-Facsimile-Reproduction-of-the-Edition-of-1766
 gutenberg_issued: '2004-10-08'
 gutenberg_type: Text
 identifiers:
